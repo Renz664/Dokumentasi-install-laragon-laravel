@@ -5,12 +5,13 @@
 # Download Composer
 1.	Selanjutnya, download Composer di https://getcomposer.org/ pilih download
 2.	Setelah download lalu install pilih install for all users -> klik Yes -> pilih next -> pilih next -> pilih install -> lalu klik finish
-3.	Lalu ke terminal yang ada di laragon, ketik composer -v, lalu klik enter
+3.	Lalu ke terminal yang ada di laragon, ketik composer -v, lalu klik Enter.
 # Install Laravel
-1. Pastikan PHP yang tersedia versi nya di atas 8 agar memudahkan dalam pengerjaan projectnya dan juga telah download composer
-2. Jika sudah maka Start all Laragonnya, setelah itu ke terminal
-3. Ketikan composer create-project --prefer-dist laravel/laravel nama-project, lalu Enter
-4. jika sudah ketik cd nama-project untuk masuk ke folder project, lalu klik Enter
-5. setelah itu ketik php artisan serve untuk mengecek apakah laravelnya berjalan atau tidak, kLIK Enter
-6. Salin kode URL yang ada lalu tempel di browser anda setelah itu lihat apakah berhasil atau tidak
+1. Pastikan PHP yang tersedia versi nya di atas 8 agar memudahkan dalam pengerjaan projectnya dan juga telah download composer.
+2. Jika sudah maka Start all Laragonnya, setelah itu ke terminal.
+3. Ketikan composer create-project --prefer-dist laravel/laravel nama-project, lalu Enter.
+4. jika sudah ketik cd nama-project untuk masuk ke folder project, lalu klik Enter.
+5. setelah itu ketik php artisan serve untuk mengecek apakah laravelnya berjalan atau tidak, kLIK Enter.
+6. Salin kode/IP URL yang ada lalu tempel di browser anda setelah itu lihat apakah berhasil atau tidak.
+
 Selengkapnya ada di file pdf yang tersedia
