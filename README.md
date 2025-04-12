@@ -7,7 +7,7 @@
 2.	Setelah download lalu install pilih install for all users -> klik Yes -> pilih next -> pilih next -> pilih install -> lalu klik finish
 3.	Lalu ke terminal yang ada di laragon, ketik composer -v, lalu klik Enter.
 # Install Laravel
-1. Pastikan PHP yang tersedia versi nya di atas 8 agar memudahkan dalam pengerjaan projectnya dan juga telah download composer.
+1. Pastikan PHP yang tersedia versi nya di atas 8 agar memudahkan dalam pengerjaan project dilaravelnya dan juga telah download composer.
 2. Jika sudah maka Start all Laragonnya, setelah itu ke terminal.
 3. Ketikan composer create-project --prefer-dist laravel/laravel nama-project, lalu Enter.
 4. jika sudah ketik cd nama-project untuk masuk ke folder project, lalu klik Enter.
